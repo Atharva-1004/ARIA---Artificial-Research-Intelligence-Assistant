@@ -1,7 +1,7 @@
 # ARIA---Artificial-Research-Intelligence-Assistant
 
 ## Overview
-MARA is an AI-powered Multiple Agent Research Assistant designed to automate and simplify research tasks using multiple AI agents. The application processes user queries, coordinates AI-driven research, and presents structured responses through a user-friendly interface.
+ARIA is an AI-powered Multiple Agent Research Assistant designed to automate and simplify research tasks using multiple AI agents. The application processes user queries, coordinates AI-driven research, and presents structured responses through a user-friendly interface.
 
 ## Features
 - Multi-agent AI research workflow
